@@ -68,7 +68,7 @@ This project implements a face recognition system using Principal Component Anal
 
 The image above shows the top 12 eigenfaces extracted from the dataset. These eigenfaces represent the principal components of variation in the facial images.
 
-Accuracy: [Insert accuracy here after running the code]
+Accuracy: 68.7
 
 The eigenfaces demonstrate how the PCA algorithm captures the most significant features of faces. The first eigenface (top left) typically represents overall face shape and lighting, while subsequent eigenfaces capture more specific facial features and variations.
 
