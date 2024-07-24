@@ -7,6 +7,10 @@ This project implements a face recognition system using Principal Component Anal
 - NumPy
 - SciPy
 - OpenCV-Python
+  
+## Dataset
+
+The face dataset used in this project can be found [here](https://github.com/robaita/introduction_to_machine_learning/blob/main/dataset.zip).
 
 ## Implementation Steps
 1. Data loading and preprocessing
